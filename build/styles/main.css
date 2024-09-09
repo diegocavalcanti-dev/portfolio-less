@@ -91,3 +91,21 @@ header .profile-avatar {
   color: #0097e6;
   background: transparent;
 }
+.teste-123 {
+  text-decoration: none;
+  background-color: #0097e6;
+  display: block;
+  padding: 16px 20px;
+  margin-bottom: 16px;
+  margin-top: 32px;
+  text-align: center;
+  color: #f5f6fa;
+  font-weight: bold;
+  border-radius: 30px;
+  border: 2px solid #0097e6;
+  transition: all ease 0.5s;
+}
+.teste-123:hover {
+  color: #0097e6;
+  background: transparent;
+}
